@@ -1,0 +1,8 @@
+.Circle-response{
+    border-radius: 50%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    right: 10px;
+}
+
